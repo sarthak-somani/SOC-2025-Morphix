@@ -26,6 +26,7 @@ Morphix is an interactive web application that allows you to explore the creativ
 
     ```bash
     git clone https://github.com/sarthak-somani/SOC-2025-Morphix.git
+    cd "SOC-2025-Morphix\Final Project"
     ```
 
 3.  **Set Up a Virtual Environment (Recommended)**
@@ -62,7 +63,7 @@ Morphix is an interactive web application that allows you to explore the creativ
 
 ### About Me
 
-This project was created by me, Sarthak Somani, as part of Seasons of Code 2025 run by IIT Bombay's Web and Coding Club. I am a student at the Department of Economics, IIT Bombay and am passioate about the intersection of machine learning, data science and finance
+This project was created by me, Sarthak Somani, as part of Seasons of Code 2025 run by IIT Bombay's Web and Coding Club. I am a student at the Department of Economics, IIT Bombay and am passioate about the intersection of machine learning, data science and finance.
 
 **LinkedIn:** [https://www.linkedin.com/in/sarthak-somani/](https://www.linkedin.com/in/sarthak-somani/)
 
