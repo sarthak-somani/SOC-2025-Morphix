@@ -1,1 +1,1 @@
-Storage folder for the boundries used in the Strealit application.
+Storage folder for the boundaries used in the Streamlit application.
