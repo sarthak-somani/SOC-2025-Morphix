@@ -1,1 +1,1 @@
-Storage
+Storage folder for the boundries used in the Strealit application
