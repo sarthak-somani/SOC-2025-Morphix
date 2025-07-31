@@ -65,6 +65,6 @@ Morphix is an interactive web application that allows you to explore the creativ
 
 This project was created by me, Sarthak Somani, as part of Seasons of Code 2025 run by IIT Bombay's Web and Coding Club, under the mentorship of Virti Rohit Mehta and Samridhi Sahay. I am a student at the Department of Economics, IIT Bombay and am passionate about the intersection of machine learning, data science and finance.
 
-**LinkedIn:** [https://www.linkedin.com/in/sarthak-somani/](https://www.linkedin.com/in/sarthak-somani/)
+**LinkedIn:** [https://www.linkedin.com/in/sarthak-somani](https://www.linkedin.com/in/sarthak-somani)
 
 **GitHub:** [https://github.com/sarthak-somani](https://github.com/sarthak-somani)
